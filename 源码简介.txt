@@ -1,0 +1,1 @@
+citrus SlidMenu 配合ViewPager实现常用框架，只有滑动切换menu以及左右滑动 home切换viewpager事件冲突解决非常好，是常用的android架构，适合用来搭建框架。
